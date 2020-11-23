@@ -1,0 +1,4 @@
+#!/bin/bash
+#stoping apache
+serive httpd stop
+rm -rf /var/www/html/*
